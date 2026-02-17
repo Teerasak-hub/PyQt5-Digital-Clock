@@ -16,4 +16,4 @@ This project showcases the implementation of real-time GUI updates using `QTimer
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Teerasak-hub/PyQt5-Digital-Clock.git](https://github.com/Teerasak-hub/PyQt5-Digital-Clock.git)
+   git clone git clone https://github.com/Teerasak-hub/PyQt5-Digital-Clock.git
